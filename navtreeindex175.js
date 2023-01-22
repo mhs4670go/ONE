@@ -1,5 +1,15 @@
 var NAVTREEINDEX175 =
 {
+"namespacennkit_1_1support_1_1tftestinfo.html#a8bbf3a9858df3571f03ed5e2ac342c2b":[33,0,82,0,5,3],
+"namespacennop.html":[33,0,83],
+"namespacennop.html#acf3d089479785117472a0b30cebc048d":[33,0,83,2],
+"namespacennsuite.html":[33,0,84],
+"namespacennsuite_1_1conv.html":[33,0,84,0],
+"namespacenpud.html":[33,0,85],
+"namespacenpud_1_1backend.html":[33,0,85,0],
+"namespacenpud_1_1backend_1_1trix.html":[33,0,85,0,0],
+"namespacenpud_1_1backend_1_1trix.html#a383b7beea3883da6f8182c744f29ed63":[33,0,85,0,0,4],
+"namespacenpud_1_1core.html":[33,0,85,1],
 "namespacenpud_1_1core.html#a33acc5541771b5187284f8e8103e9f49":[33,0,85,1,20],
 "namespacenpud_1_1core.html#a560b02ec6bc0583759fc62da56abb722":[33,0,85,1,21],
 "namespacenpud_1_1core.html#a61a338130d5be20b53facbeebc696662":[33,0,85,1,23],
@@ -239,15 +249,5 @@ var NAVTREEINDEX175 =
 "namespaceonert_1_1backend_1_1trix.html#af75d7ed0852b7dc18f464b438daf3d31":[33,0,86,1,10,7],
 "namespaceonert_1_1backend_1_1trix.html#afa1aae7d72debd8521204d20c149d8c6":[33,0,86,1,10,14],
 "namespaceonert_1_1backend_1_1trix_1_1ops.html":[33,0,86,1,10,0],
-"namespaceonert_1_1backend_1_1xnnpack.html":[33,0,86,1,11],
-"namespaceonert_1_1backend_1_1xnnpack.html#a30e0cc8dd7c58ee616eca3f0abdd576d":[33,0,86,1,11,7],
-"namespaceonert_1_1backend_1_1xnnpack.html#a61d741014e34b2524d7b28b1f62cc856":[33,0,86,1,11,8],
-"namespaceonert_1_1backend_1_1xnnpack.html#a7bdc3b5c4ab9d40871f080f99c4f7b72":[33,0,86,1,11,9],
-"namespaceonert_1_1backend_1_1xnnpack.html#a82efcbc75cd5285180b83291744766ae":[33,0,86,1,11,6],
-"namespaceonert_1_1backend_1_1xnnpack_1_1ops.html":[33,0,86,1,11,0],
-"namespaceonert_1_1backend_1_1xnnpack_1_1ops.html#aa17afb664268c7b0ee10145e41637f5a":[33,0,86,1,11,0,4],
-"namespaceonert_1_1base__loader.html":[33,0,86,2],
-"namespaceonert_1_1base__loader.html#a91b779a041f692b8c67c64d24017033a":[33,0,86,2,1],
-"namespaceonert_1_1circle__loader.html":[33,0,86,3],
-"namespaceonert_1_1circle__loader.html#ac0c590960873d8058561f25848069ba9":[33,0,86,3,1]
+"namespaceonert_1_1backend_1_1xnnpack.html":[33,0,86,1,11]
 };

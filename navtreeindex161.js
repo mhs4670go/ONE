@@ -1,5 +1,11 @@
 var NAVTREEINDEX161 =
 {
+"lang_2include_2luci_2_i_r_2_nodes_2_circle_mean_8h.html":[35,0,0,51,3,0,0,0,0,59],
+"lang_2include_2luci_2_i_r_2_nodes_2_circle_mean_8h_source.html":[35,0,0,51,3,0,0,0,0,59],
+"lang_2include_2luci_2_i_r_2_nodes_2_circle_minimum_8h.html":[35,0,0,51,3,0,0,0,0,60],
+"lang_2include_2luci_2_i_r_2_nodes_2_circle_minimum_8h_source.html":[35,0,0,51,3,0,0,0,0,60],
+"lang_2include_2luci_2_i_r_2_nodes_2_circle_mirror_pad_8h.html":[35,0,0,51,3,0,0,0,0,61],
+"lang_2include_2luci_2_i_r_2_nodes_2_circle_mirror_pad_8h_source.html":[35,0,0,51,3,0,0,0,0,61],
 "lang_2include_2luci_2_i_r_2_nodes_2_circle_mul_8h.html":[35,0,0,51,3,0,0,0,0,62],
 "lang_2include_2luci_2_i_r_2_nodes_2_circle_mul_8h_source.html":[35,0,0,51,3,0,0,0,0,62],
 "lang_2include_2luci_2_i_r_2_nodes_2_circle_neg_8h.html":[35,0,0,51,3,0,0,0,0,63],
@@ -243,11 +249,5 @@ var NAVTREEINDEX161 =
 "locop_2include_2locop_2_formatted_graph_8h.html":[35,0,0,47,0,0,1],
 "locop_2include_2locop_2_formatted_graph_8h.html#a14c177771b31e4468a311393564f8a08":[35,0,0,47,0,0,1,4],
 "locop_2include_2locop_2_formatted_graph_8h.html#a23c3ebe7756bcbc1424d1a92b7b90005":[35,0,0,47,0,0,1,5],
-"locop_2include_2locop_2_formatted_graph_8h.html#a4b69a42ab0b2af6099551191dc13e1c8":[35,0,0,47,0,0,1,3],
-"locop_2include_2locop_2_formatted_graph_8h.html#ae134a7764374eb3245be3c36324e0c52":[35,0,0,47,0,0,1,2],
-"locop_2include_2locop_2_formatted_graph_8h.html#ae134a7764374eb3245be3c36324e0c52a521ae7fbf95ad7f1c8696e1e45474221":[35,0,0,47,0,0,1,2,0],
-"locop_2include_2locop_2_formatted_graph_8h_source.html":[35,0,0,47,0,0,1],
-"locop_2src_2_formatted_graph_8cpp.html":[35,0,0,47,1,2],
-"locop_2src_2_formatted_graph_8cpp.html#a23c3ebe7756bcbc1424d1a92b7b90005":[35,0,0,47,1,2,0],
-"locop_2src_2_formatted_graph_8cpp.html#a968af35c31d490d940ed36e4b210f169":[35,0,0,47,1,2,1]
+"locop_2include_2locop_2_formatted_graph_8h.html#a4b69a42ab0b2af6099551191dc13e1c8":[35,0,0,47,0,0,1,3]
 };

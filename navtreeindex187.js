@@ -1,5 +1,15 @@
 var NAVTREEINDEX187 =
 {
+"runtime_2onert_2core_2include_2ir_2operation_2_select_8h_source.html":[35,0,4,2,2,0,3,0,51],
+"runtime_2onert_2core_2include_2ir_2operation_2_shape_8h.html":[35,0,4,2,2,0,3,0,52],
+"runtime_2onert_2core_2include_2ir_2operation_2_shape_8h_source.html":[35,0,4,2,2,0,3,0,52],
+"runtime_2onert_2core_2include_2ir_2operation_2_slice_8h.html":[35,0,4,2,2,0,3,0,53],
+"runtime_2onert_2core_2include_2ir_2operation_2_slice_8h_source.html":[35,0,4,2,2,0,3,0,53],
+"runtime_2onert_2core_2include_2ir_2operation_2_soft_max_8h.html":[35,0,4,2,2,0,3,0,54],
+"runtime_2onert_2core_2include_2ir_2operation_2_soft_max_8h_source.html":[35,0,4,2,2,0,3,0,54],
+"runtime_2onert_2core_2include_2ir_2operation_2_space_to_batch_n_d_8h.html":[35,0,4,2,2,0,3,0,55],
+"runtime_2onert_2core_2include_2ir_2operation_2_space_to_batch_n_d_8h_source.html":[35,0,4,2,2,0,3,0,55],
+"runtime_2onert_2core_2include_2ir_2operation_2_space_to_depth_8h.html":[35,0,4,2,2,0,3,0,56],
 "runtime_2onert_2core_2include_2ir_2operation_2_space_to_depth_8h_source.html":[35,0,4,2,2,0,3,0,56],
 "runtime_2onert_2core_2include_2ir_2operation_2_split_8h.html":[35,0,4,2,2,0,3,0,57],
 "runtime_2onert_2core_2include_2ir_2operation_2_split_8h_source.html":[35,0,4,2,2,0,3,0,57],
@@ -206,8 +216,8 @@ var NAVTREEINDEX187 =
 "service_2npud_2core_2util_2_config_source_8cc.html#aae0223aaa39f028de0decd468571a7ca":[35,0,4,3,0,1,1,0,7],
 "service_2npud_2core_2util_2_config_source_8cc.html#ac314a2c8dd4d5f73a0b9f37b949b5be3":[35,0,4,3,0,1,1,0,2],
 "service_2npud_2core_2util_2_config_source_8cc.html#ad8d73abf62eda5617c69b7e2c3d5405b":[35,0,4,3,0,1,1,0,3],
-"service_2npud_2core_2util_2_config_source_8cc.html#af5e5e617f131b8f6f83bf109cc9abf32":[35,0,4,3,0,1,1,0,0],
 "service_2npud_2core_2util_2_config_source_8cc.html#af5e5e617f131b8f6f83bf109cc9abf32":[35,0,4,3,0,1,1,0,1],
+"service_2npud_2core_2util_2_config_source_8cc.html#af5e5e617f131b8f6f83bf109cc9abf32":[35,0,4,3,0,1,1,0,0],
 "service_2npud_2core_2util_2_config_source_8cc_source.html":[35,0,4,3,0,1,1,0],
 "service_2npud_2core_2util_2_config_source_8h.html":[35,0,4,3,0,1,1,1],
 "service_2npud_2core_2util_2_config_source_8h.html#a3a1f50978c5118eda99a1fb91890d509":[35,0,4,3,0,1,1,1,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX187 =
 "service_2src_2_nodes_2_circle_cast_8cpp_source.html":[35,0,0,51,10,1,0,10],
 "service_2src_2_nodes_2_circle_ceil_8cpp.html":[35,0,0,51,10,1,0,11],
 "service_2src_2_nodes_2_circle_ceil_8cpp_source.html":[35,0,0,51,10,1,0,11],
-"service_2src_2_nodes_2_circle_concatenation_8cpp.html":[35,0,0,51,10,1,0,12],
-"service_2src_2_nodes_2_circle_concatenation_8cpp_source.html":[35,0,0,51,10,1,0,12],
-"service_2src_2_nodes_2_circle_const_8cpp.html":[35,0,0,51,10,1,0,13],
-"service_2src_2_nodes_2_circle_const_8cpp.html#a8984ba83d6f0e6d0dc99b25ee3b5d04b":[35,0,0,51,10,1,0,13,0],
-"service_2src_2_nodes_2_circle_const_8cpp_source.html":[35,0,0,51,10,1,0,13],
-"service_2src_2_nodes_2_circle_conv2_d_8cpp.html":[35,0,0,51,10,1,0,14],
-"service_2src_2_nodes_2_circle_conv2_d_8cpp_source.html":[35,0,0,51,10,1,0,14],
-"service_2src_2_nodes_2_circle_cos_8cpp.html":[35,0,0,51,10,1,0,15],
-"service_2src_2_nodes_2_circle_cos_8cpp_source.html":[35,0,0,51,10,1,0,15],
-"service_2src_2_nodes_2_circle_custom_8cpp.html":[35,0,0,51,10,1,0,16],
-"service_2src_2_nodes_2_circle_custom_8cpp_source.html":[35,0,0,51,10,1,0,16]
+"service_2src_2_nodes_2_circle_concatenation_8cpp.html":[35,0,0,51,10,1,0,12]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX21 =
 {
+"_remove_unnecessary_strided_slice_pass_8cpp_source.html":[35,0,0,51,7,1,69],
+"_remove_unnecessary_strided_slice_pass_8h.html":[35,0,0,51,7,0,0,0,46],
 "_remove_unnecessary_strided_slice_pass_8h_source.html":[35,0,0,51,7,0,0,0,46],
 "_reorder_decode_pass_8cpp.html":[35,0,0,48,1,0,4],
 "_reorder_decode_pass_8cpp_source.html":[35,0,0,48,1,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX21 =
 "_shape_calculator_ex_8h.html":[35,0,1,0,0,0,2,0,0],
 "_shape_calculator_ex_8h.html#a04b0c0423728894eea6d77c2e01aa0ab":[35,0,1,0,0,0,2,0,0,2],
 "_shape_calculator_ex_8h.html#a2ce8b629c4ffa62fd0d3b209b3b9be80":[35,0,1,0,0,0,2,0,0,5],
-"_shape_calculator_ex_8h.html#a639ed6b2f361df361565bf1cb2a22bb2":[35,0,1,0,0,0,2,0,0,4],
-"_shape_calculator_ex_8h.html#a7986ee821cb6645d21c377cc4b4ba6eb":[35,0,1,0,0,0,2,0,0,3],
-"_shape_calculator_ex_8h.html#ade860b5dca74d78f1a7a4acc98e815e2":[35,0,1,0,0,0,2,0,0,0]
+"_shape_calculator_ex_8h.html#a639ed6b2f361df361565bf1cb2a22bb2":[35,0,1,0,0,0,2,0,0,4]
 };

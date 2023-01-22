@@ -1,5 +1,15 @@
 var NAVTREEINDEX180 =
 {
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_leaky_relu_8h_source.html":[35,0,3,2,1,0,12],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_mul_8h.html":[35,0,3,2,1,0,13],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_mul_8h_source.html":[35,0,3,2,1,0,13],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_neg_8h.html":[35,0,3,2,1,0,14],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_neg_8h_source.html":[35,0,3,2,1,0,14],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_quantize_8h.html":[35,0,3,2,1,0,15],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_quantize_8h_source.html":[35,0,3,2,1,0,15],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_resize_bilinear_8h.html":[35,0,3,2,1,0,17],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_resize_bilinear_8h_source.html":[35,0,3,2,1,0,17],
+"onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_resize_nearest_neighbor_8h.html":[35,0,3,2,1,0,18],
 "onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_resize_nearest_neighbor_8h_source.html":[35,0,3,2,1,0,18],
 "onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_s_v_d_f_8h.html":[35,0,3,2,1,0,23],
 "onert-micro_2luci-interpreter_2pal_2cmsisnn_2_p_a_l_s_v_d_f_8h_source.html":[35,0,3,2,1,0,23],
@@ -239,15 +249,5 @@ var NAVTREEINDEX180 =
 "onert-micro_2luci-interpreter_2src_2kernels_2_add_8cpp_source.html":[35,0,3,2,2,2,0],
 "onert-micro_2luci-interpreter_2src_2kernels_2_add_8h.html":[35,0,3,2,2,2,1],
 "onert-micro_2luci-interpreter_2src_2kernels_2_add_8h_source.html":[35,0,3,2,2,2,1],
-"onert-micro_2luci-interpreter_2src_2kernels_2_arg_max_8cpp.html":[35,0,3,2,2,2,2],
-"onert-micro_2luci-interpreter_2src_2kernels_2_arg_max_8cpp.html#a33b4f3eba18a392bb49a156c7e19f4df":[35,0,3,2,2,2,2,0],
-"onert-micro_2luci-interpreter_2src_2kernels_2_arg_max_8cpp_source.html":[35,0,3,2,2,2,2],
-"onert-micro_2luci-interpreter_2src_2kernels_2_arg_max_8h.html":[35,0,3,2,2,2,3],
-"onert-micro_2luci-interpreter_2src_2kernels_2_arg_max_8h_source.html":[35,0,3,2,2,2,3],
-"onert-micro_2luci-interpreter_2src_2kernels_2_average_pool2_d_8cpp.html":[35,0,3,2,2,2,4],
-"onert-micro_2luci-interpreter_2src_2kernels_2_average_pool2_d_8cpp_source.html":[35,0,3,2,2,2,4],
-"onert-micro_2luci-interpreter_2src_2kernels_2_average_pool2_d_8h.html":[35,0,3,2,2,2,5],
-"onert-micro_2luci-interpreter_2src_2kernels_2_average_pool2_d_8h_source.html":[35,0,3,2,2,2,5],
-"onert-micro_2luci-interpreter_2src_2kernels_2_batch_mat_mul_8cpp.html":[35,0,3,2,2,2,6],
-"onert-micro_2luci-interpreter_2src_2kernels_2_batch_mat_mul_8cpp.html#a3cf62fbddebae9c18b3242ac62f0ed0b":[35,0,3,2,2,2,6,0]
+"onert-micro_2luci-interpreter_2src_2kernels_2_arg_max_8cpp.html":[35,0,3,2,2,2,2]
 };

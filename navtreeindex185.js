@@ -1,5 +1,15 @@
 var NAVTREEINDEX185 =
 {
+"partition_2src_2_nodes_2_circle_squeeze_8cpp_source.html":[35,0,0,51,6,1,0,109],
+"partition_2src_2_nodes_2_circle_strided_slice_8cpp.html":[35,0,0,51,6,1,0,110],
+"partition_2src_2_nodes_2_circle_strided_slice_8cpp_source.html":[35,0,0,51,6,1,0,110],
+"partition_2src_2_nodes_2_circle_sub_8cpp.html":[35,0,0,51,6,1,0,111],
+"partition_2src_2_nodes_2_circle_sub_8cpp_source.html":[35,0,0,51,6,1,0,111],
+"partition_2src_2_nodes_2_circle_sum_8cpp.html":[35,0,0,51,6,1,0,112],
+"partition_2src_2_nodes_2_circle_sum_8cpp_source.html":[35,0,0,51,6,1,0,112],
+"partition_2src_2_nodes_2_circle_tanh_8cpp.html":[35,0,0,51,6,1,0,114],
+"partition_2src_2_nodes_2_circle_tanh_8cpp_source.html":[35,0,0,51,6,1,0,114],
+"partition_2src_2_nodes_2_circle_tile_8cpp.html":[35,0,0,51,6,1,0,115],
 "partition_2src_2_nodes_2_circle_tile_8cpp_source.html":[35,0,0,51,6,1,0,115],
 "partition_2src_2_nodes_2_circle_top_k_v2_8cpp.html":[35,0,0,51,6,1,0,116],
 "partition_2src_2_nodes_2_circle_top_k_v2_8cpp_source.html":[35,0,0,51,6,1,0,116],
@@ -239,15 +249,5 @@ var NAVTREEINDEX185 =
 "runtime_2libs_2misc_2src_2tensor_2_shape_8cpp.html#a65514e600555c5b1d3bff65b6271d9d4":[35,0,4,0,1,1,0,3,1],
 "runtime_2libs_2misc_2src_2tensor_2_shape_8cpp_source.html":[35,0,4,0,1,1,0,3],
 "runtime_2libs_2ndarray_2include_2ndarray_2_array_8h.html":[35,0,4,0,2,1,0,0],
-"runtime_2libs_2ndarray_2include_2ndarray_2_array_8h.html#a59d0366f359945fd91a461a0026e2a38":[35,0,4,0,2,1,0,0,7],
-"runtime_2libs_2ndarray_2include_2ndarray_2_array_8h.html#a61a13188b8ca1f2aaf04c2652a58b1c5":[35,0,4,0,2,1,0,0,6],
-"runtime_2libs_2ndarray_2include_2ndarray_2_array_8h.html#a973a7d278601e187dfd10fbf46cf5bc5":[35,0,4,0,2,1,0,0,5],
-"runtime_2libs_2ndarray_2include_2ndarray_2_array_8h.html#ae86ee1587edde7e66255916b8a830d6a":[35,0,4,0,2,1,0,0,4],
-"runtime_2libs_2ndarray_2include_2ndarray_2_array_8h_source.html":[35,0,4,0,2,1,0,0],
-"runtime_2libs_2ndarray_2include_2ndarray_2_common_8h.html":[35,0,4,0,2,1,0,1],
-"runtime_2libs_2ndarray_2include_2ndarray_2_common_8h.html#a88dba3746e9fe5251acfc72c9b5290a8":[35,0,4,0,2,1,0,1,0],
-"runtime_2libs_2ndarray_2include_2ndarray_2_common_8h_source.html":[35,0,4,0,2,1,0,1],
-"runtime_2libs_2ndarray_2include_2ndarray_2_shape_8h.html":[35,0,4,0,2,1,0,3],
-"runtime_2libs_2ndarray_2include_2ndarray_2_shape_8h_source.html":[35,0,4,0,2,1,0,3],
-"runtime_2libs_2tflite_2include_2tflite_2_session_8h.html":[35,0,4,0,6,0,0,5]
+"runtime_2libs_2ndarray_2include_2ndarray_2_array_8h.html#a59d0366f359945fd91a461a0026e2a38":[35,0,4,0,2,1,0,0,7]
 };
