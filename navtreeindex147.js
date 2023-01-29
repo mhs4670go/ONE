@@ -1,5 +1,12 @@
 var NAVTREEINDEX147 =
 {
+"compute_2cker_2include_2cker_2operation_2reference_2_conv_8h_source.html":[35,0,1,1,0,0,3,2,3],
+"compute_2ruy_2include_2ruy_2_shape_8h.html":[35,0,1,2,0,0,5],
+"compute_2ruy_2include_2ruy_2_shape_8h.html#a044d7f999713173dd3360b0aa40370fd":[35,0,1,2,0,0,5,2],
+"compute_2ruy_2include_2ruy_2_shape_8h.html#a2ff84d5a7c5d687bd28ed7e2f7977806":[35,0,1,2,0,0,5,5],
+"compute_2ruy_2include_2ruy_2_shape_8h.html#a3a08b14bae8f7d68302652cae45deb20":[35,0,1,2,0,0,5,7],
+"compute_2ruy_2include_2ruy_2_shape_8h.html#a3eb6cf080c5482b967cc28f8cb0374e2":[35,0,1,2,0,0,5,13],
+"compute_2ruy_2include_2ruy_2_shape_8h.html#a616a524b483b05714d724b66be425980":[35,0,1,2,0,0,5,10],
 "compute_2ruy_2include_2ruy_2_shape_8h.html#a6752dc8511d72b68aa444c0abb372d17":[35,0,1,2,0,0,5,8],
 "compute_2ruy_2include_2ruy_2_shape_8h.html#a729af90aae0893b06632064327843408":[35,0,1,2,0,0,5,4],
 "compute_2ruy_2include_2ruy_2_shape_8h.html#a781fc9653158e5eb284b64426ec1f2aa":[35,0,1,2,0,0,5,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX147 =
 "cpu_2ops_2_operation_utils_8h.html#a6d8360cb137dc050f27de1e95552a5f7":[35,0,4,2,1,4,0,55,20],
 "cpu_2ops_2_operation_utils_8h.html#a7e7833cbf36fc30162efb338e65922e8":[35,0,4,2,1,4,0,55,15],
 "cpu_2ops_2_operation_utils_8h.html#a7f9662c4d904170b9a6a6ebc1f4ef2f0":[35,0,4,2,1,4,0,55,17],
-"cpu_2ops_2_operation_utils_8h.html#a8bd3b9d30711a87ca05dd34c92d35e6d":[35,0,4,2,1,4,0,55,10],
-"cpu_2ops_2_operation_utils_8h.html#aa3ed894d41e9c8473df0db171af23d7d":[35,0,4,2,1,4,0,55,3],
-"cpu_2ops_2_operation_utils_8h.html#aad998e9198e97919831626a22ae9ee70":[35,0,4,2,1,4,0,55,9],
-"cpu_2ops_2_operation_utils_8h.html#ae4d438d3d3062bfd95a6e0caed125457":[35,0,4,2,1,4,0,55,13],
-"cpu_2ops_2_operation_utils_8h.html#afc22736e0da6f4516d09f994d0e9d07a":[35,0,4,2,1,4,0,55,18],
-"cpu_2ops_2_operation_utils_8h_source.html":[35,0,4,2,1,4,0,55],
-"cpu_8cc.html":[35,0,4,2,1,4,6],
-"cpu_8cc.html#a1d7114a0448122974a3df458ef21f2f8":[35,0,4,2,1,4,6,1]
+"cpu_2ops_2_operation_utils_8h.html#a8bd3b9d30711a87ca05dd34c92d35e6d":[35,0,4,2,1,4,0,55,10]
 };

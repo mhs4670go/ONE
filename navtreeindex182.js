@@ -1,5 +1,12 @@
 var NAVTREEINDEX182 =
 {
+"onert-micro_2luci-interpreter_2src_2kernels_2_slice_8cpp.html#a7a97dbb9fba5db3e3ac30aa9042fd3b6":[35,0,3,2,2,2,119,1],
+"onert-micro_2luci-interpreter_2src_2kernels_2_slice_8cpp_source.html":[35,0,3,2,2,2,119],
+"onert-micro_2luci-interpreter_2src_2kernels_2_slice_8h.html":[35,0,3,2,2,2,120],
+"onert-micro_2luci-interpreter_2src_2kernels_2_slice_8h_source.html":[35,0,3,2,2,2,120],
+"onert-micro_2luci-interpreter_2src_2kernels_2_soft_max_8h.html":[35,0,3,2,2,2,122],
+"onert-micro_2luci-interpreter_2src_2kernels_2_soft_max_8h_source.html":[35,0,3,2,2,2,122],
+"onert-micro_2luci-interpreter_2src_2kernels_2_softmax_8cpp.html":[35,0,3,2,2,2,121],
 "onert-micro_2luci-interpreter_2src_2kernels_2_softmax_8cpp_source.html":[35,0,3,2,2,2,121],
 "onert-micro_2luci-interpreter_2src_2kernels_2_space_to_batch_n_d_8cpp.html":[35,0,3,2,2,2,123],
 "onert-micro_2luci-interpreter_2src_2kernels_2_space_to_batch_n_d_8cpp_source.html":[35,0,3,2,2,2,123],
@@ -126,8 +133,8 @@ var NAVTREEINDEX182 =
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a46b9a46fe1de96a0ff7ee864ec4b7caa":[35,0,3,2,2,3,3,3,1],
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a6f6cb72d544962fa333e2e34ce64f719":[35,0,3,2,2,3,3,3,2],
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a6f6cb72d544962fa333e2e34ce64f719":[35,0,3,2,2,3,3,3,0],
-"onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a488c41d40df21b637578b037b0431fd0":[35,0,3,2,2,3,3,2],
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a488c41d40df21b637578b037b0431fd0":[35,0,3,2,2,3,3,1],
+"onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a488c41d40df21b637578b037b0431fd0":[35,0,3,2,2,3,3,2],
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp_source.html":[35,0,3,2,2,3,3],
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8h.html":[35,0,3,2,2,3,4],
 "onert-micro_2luci-interpreter_2src_2loader_2_kernel_builder_8h_source.html":[35,0,3,2,2,3,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX182 =
 "onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logical_not_8cpp_source.html":[35,0,3,2,2,3,0,33],
 "onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logical_or_8cpp.html":[35,0,3,2,2,3,0,34],
 "onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logical_or_8cpp.html#afc02dfedbf8376a6b2c2e12197ad380a":[35,0,3,2,2,3,0,34,0],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logical_or_8cpp_source.html":[35,0,3,2,2,3,0,34],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logistic_8cpp.html":[35,0,3,2,2,3,0,35],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logistic_8cpp.html#aa1d7d064a05083f478d39d6c3f062b19":[35,0,3,2,2,3,0,35,0],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logistic_8cpp_source.html":[35,0,3,2,2,3,0,35],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_max_pool2_d_8cpp.html":[35,0,3,2,2,3,0,38],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_max_pool2_d_8cpp.html#a90e928ccccbc82da4d5ed33f3c799480":[35,0,3,2,2,3,0,38,0],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_max_pool2_d_8cpp_source.html":[35,0,3,2,2,3,0,38],
-"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_maximum_8cpp.html":[35,0,3,2,2,3,0,37]
+"onert-micro_2luci-interpreter_2src_2loader_2nodes_2_logical_or_8cpp_source.html":[35,0,3,2,2,3,0,34]
 };

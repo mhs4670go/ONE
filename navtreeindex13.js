@@ -1,5 +1,10 @@
 var NAVTREEINDEX13 =
 {
+"_l_s_t_m_8cc.html":[35,0,4,2,2,1,5,0,34],
+"_l_s_t_m_8cc_source.html":[35,0,4,2,2,1,5,0,34],
+"_l_s_t_m_layer_8cc.html":[35,0,4,2,1,4,0,46],
+"_l_s_t_m_layer_8cc_source.html":[35,0,4,2,1,4,0,46],
+"_l_s_t_m_layer_8h.html":[35,0,4,2,1,4,0,47],
 "_l_s_t_m_layer_8h_source.html":[35,0,4,2,1,4,0,47],
 "_layer_8h.html":[35,0,4,2,1,8,0,6],
 "_layer_8h_source.html":[35,0,4,2,1,8,0,6],
@@ -172,10 +177,10 @@ var NAVTREEINDEX13 =
 "_m_p_q_solver_8cpp_source.html":[35,0,0,13,0,2],
 "_m_p_q_solver_8h.html":[35,0,0,13,0,3],
 "_m_p_q_solver_8h_source.html":[35,0,0,13,0,3],
-"_make_batch_norm_gamma_positive_pass_8cpp.html":[35,0,0,51,7,1,37],
-"_make_batch_norm_gamma_positive_pass_8cpp_source.html":[35,0,0,51,7,1,37],
-"_make_batch_norm_gamma_positive_pass_8h.html":[35,0,0,51,7,0,0,0,28],
-"_make_batch_norm_gamma_positive_pass_8h_source.html":[35,0,0,51,7,0,0,0,28],
+"_make_batch_norm_gamma_positive_pass_8cpp.html":[35,0,0,51,7,1,38],
+"_make_batch_norm_gamma_positive_pass_8cpp_source.html":[35,0,0,51,7,1,38],
+"_make_batch_norm_gamma_positive_pass_8h.html":[35,0,0,51,7,0,0,0,29],
+"_make_batch_norm_gamma_positive_pass_8h_source.html":[35,0,0,51,7,0,0,0,29],
 "_manual_scheduler_8cc.html":[35,0,4,2,2,1,1,16],
 "_manual_scheduler_8cc_source.html":[35,0,4,2,2,1,1,16],
 "_manual_scheduler_8h.html":[35,0,4,2,2,1,1,17],
@@ -244,10 +249,5 @@ var NAVTREEINDEX13 =
 "_max_op_8h_source.html":[35,0,0,61,0,0,0,22],
 "_max_pool2_d_8float_8cpp.html":[35,0,0,3,0,0,30],
 "_max_pool2_d_8float_8cpp.html#a4d4744978650e89a01b4b84985f5f57b":[35,0,0,3,0,0,30,3],
-"_max_pool2_d_8float_8cpp.html#a5e29d564846dd0bc3b10f662cfda024f":[35,0,0,3,0,0,30,1],
-"_max_pool2_d_8float_8cpp.html#ac4aabf7f9337fa268beda4767216ac73":[35,0,0,3,0,0,30,0],
-"_max_pool2_d_8float_8cpp.html#ae45c15e15f37466cdc3b73eb8e412ddc":[35,0,0,3,0,0,30,2],
-"_max_pool2_d_8float_8cpp_source.html":[35,0,0,3,0,0,30],
-"_max_pool2_d_8float_8h.html":[35,0,0,3,0,0,31],
-"_max_pool2_d_8float_8h.html#a4d4744978650e89a01b4b84985f5f57b":[35,0,0,3,0,0,31,0]
+"_max_pool2_d_8float_8cpp.html#a5e29d564846dd0bc3b10f662cfda024f":[35,0,0,3,0,0,30,1]
 };
