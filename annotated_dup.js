@@ -1505,6 +1505,9 @@ var annotated_dup =
       [ "UnpackParams", "structluci__interpreter_1_1_unpack_params.html", "structluci__interpreter_1_1_unpack_params" ],
       [ "VectorWrapper", "classluci__interpreter_1_1_vector_wrapper.html", "classluci__interpreter_1_1_vector_wrapper" ]
     ] ],
+    [ "luci_interpreter_pal", "namespaceluci__interpreter__pal.html", [
+      [ "ActivationFunctor", "classluci__interpreter__pal_1_1_activation_functor.html", "classluci__interpreter__pal_1_1_activation_functor" ]
+    ] ],
     [ "mio", "namespacemio.html", [
       [ "circle", "namespacemio_1_1circle.html", [
         [ "Reader", "classmio_1_1circle_1_1_reader.html", "classmio_1_1circle_1_1_reader" ]

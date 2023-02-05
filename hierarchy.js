@@ -54,6 +54,7 @@ var hierarchy =
     [ "ActivationFunctionImpl< FusedActivationFunctionType::kRelu >", "struct_activation_function_impl_3_01_fused_activation_function_type_1_1k_relu_01_4.html", null ],
     [ "ActivationFunctionImpl< FusedActivationFunctionType::kRelu1 >", "struct_activation_function_impl_3_01_fused_activation_function_type_1_1k_relu1_01_4.html", null ],
     [ "ActivationFunctionImpl< FusedActivationFunctionType::kRelu6 >", "struct_activation_function_impl_3_01_fused_activation_function_type_1_1k_relu6_01_4.html", null ],
+    [ "luci_interpreter_pal::ActivationFunctor", "classluci__interpreter__pal_1_1_activation_functor.html", null ],
     [ "nnfw::cker::ActivationFunctor", "classnnfw_1_1cker_1_1_activation_functor.html", null ],
     [ "mir_interpreter::AddImpl< T >", "structmir__interpreter_1_1_add_impl.html", null ],
     [ "mir_interpreter::AddImpl< uint8_t >", "structmir__interpreter_1_1_add_impl_3_01uint8__t_01_4.html", null ],
@@ -2781,6 +2782,7 @@ var hierarchy =
         [ "luci_interpreter::kernels::TransposeConv", "classluci__interpreter_1_1kernels_1_1_transpose_conv.html", null ]
       ] ],
       [ "luci_interpreter::KernelWithParams< UnidirectionalSequenceLSTMParams >", "classluci__interpreter_1_1_kernel_with_params.html", [
+        [ "luci_interpreter::kernels::UnidirectionalSequenceLSTM", "classluci__interpreter_1_1kernels_1_1_unidirectional_sequence_l_s_t_m.html", null ],
         [ "luci_interpreter::kernels::UnidirectionalSequenceLSTM", "classluci__interpreter_1_1kernels_1_1_unidirectional_sequence_l_s_t_m.html", null ]
       ] ],
       [ "luci_interpreter::KernelWithParams< UnpackParams >", "classluci__interpreter_1_1_kernel_with_params.html", [
